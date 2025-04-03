@@ -151,6 +151,7 @@ public class PracticeProblem {
         return -1;
     }
 
+    
     public static void fileAppend(String output, String filename) {
         BufferedWriter writer = null;
         try {
